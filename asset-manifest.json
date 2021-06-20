@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newscart.in/static/css/main.3d4fa5ce.chunk.css",
+    "main.js": "/newscart.in/static/js/main.8d24982f.chunk.js",
+    "main.js.map": "/newscart.in/static/js/main.8d24982f.chunk.js.map",
+    "runtime-main.js": "/newscart.in/static/js/runtime-main.4789384e.js",
+    "runtime-main.js.map": "/newscart.in/static/js/runtime-main.4789384e.js.map",
+    "static/js/2.fab3c9c5.chunk.js": "/newscart.in/static/js/2.fab3c9c5.chunk.js",
+    "static/js/2.fab3c9c5.chunk.js.map": "/newscart.in/static/js/2.fab3c9c5.chunk.js.map",
+    "static/js/3.14e7ef2f.chunk.js": "/newscart.in/static/js/3.14e7ef2f.chunk.js",
+    "static/js/3.14e7ef2f.chunk.js.map": "/newscart.in/static/js/3.14e7ef2f.chunk.js.map",
+    "index.html": "/newscart.in/index.html",
+    "static/css/main.3d4fa5ce.chunk.css.map": "/newscart.in/static/css/main.3d4fa5ce.chunk.css.map",
+    "static/js/2.fab3c9c5.chunk.js.LICENSE.txt": "/newscart.in/static/js/2.fab3c9c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4789384e.js",
+    "static/js/2.fab3c9c5.chunk.js",
+    "static/css/main.3d4fa5ce.chunk.css",
+    "static/js/main.8d24982f.chunk.js"
+  ]
+}
